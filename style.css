@@ -7,7 +7,7 @@
     border: 0;
     box-sizing: border-box;
     }
-    
+
     html, body {
     height: 100%;
     font-family: 'Styrene A Web', sans-serif;
@@ -17,7 +17,7 @@
         max-width: 1680px;
         margin: 0 auto;
         background: #B8B8B8;
-        background-image: url(img/Group6.svg);
+        background-image: url(img/groupp6.svg);
         background-position-y: 25%;
         z-index: 0;
         width: 100%;
@@ -35,11 +35,11 @@
     }
 
     .circle {
-        background: url(img/dot.svg);
+        background: url(img/dott.svg);
         background-size: auto;
         background-repeat: no-repeat;
         background-position-x: center;
-        background-position-y: 63%; 
+        background-position-y: 63%;
     }
 
     h2 {
@@ -79,7 +79,7 @@
     @media screen and (max-width: 1366px) {
         .wrapper {
             height: 768px;
-            background-image: url(img/Group7.svg);
+            background-image: url(img/groupp7.svg);
             background-position-y: 10%;
         }
         h1 {
@@ -102,7 +102,7 @@
     @media screen and (max-width: 1280px) {
         .wrapper {
             height: 800px;
-            background-image: url(img/Group8.svg);
+            background-image: url(img/groupp8.svg);
             background-position-y: 10%;
         }
         h1 {
@@ -126,7 +126,7 @@
     @media screen and (max-width: 1024px) {
         .wrapper {
             height: 768px;
-            background-image: url(img/Group9.svg);
+            background-image: url(img/groupp9.svg);
             background-position-y: 10%;
         }
         h1 {
@@ -149,7 +149,7 @@
     @media screen and (max-width: 768px) {
         .wrapper {
             height: 1024px;
-            background-image: url(img/Group10.svg);
+            background-image: url(img/groupp10.svg);
             background-position-y: -250%;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -166,7 +166,7 @@
     @media screen and (max-width: 320px) {
         .wrapper {
             height: 475px;
-            background-image: url(img/Group11.svg);
+            background-image: url(img/groupp11.svg);
             background-position-y: 250%;
             background-position-x: 10%;
         }
